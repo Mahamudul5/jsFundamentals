@@ -14,8 +14,17 @@
 
 
 // solution:
-function addNumber(a, b) {
-    const result = a + b;
-    return console.log(result);
-}
-addNumber(5, 6);
+// function addNumber(a, b) {
+//     const result = a + b;
+//     return console.log(result);
+// }
+// addNumber(5, 6);
+
+//problem-3: Write a function that takes a string (a) and a number (n) as argument
+// Return the nth character of 'a'
+
+// solution:
+// function myFunction(a, n) {
+//     return console.log(a[n - 1]);
+// }
+// myFunction('bilash', 2);
