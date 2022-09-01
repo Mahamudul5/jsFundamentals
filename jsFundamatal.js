@@ -31,7 +31,7 @@
 // myFunction('bilash', 2);
 // ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-// Problem-4: write a function that take two number say a and b if two number are same then return true .
+// Problem-4: write a function that take two number say a and b if two number are same then return true .???
 
 // function myFunction(a, b) {
 //     if (a === b) {
@@ -42,4 +42,17 @@
 //     return console.log(result);
 // }
 // myFunction(1, 1);
+// ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+//problem-5: Write a function that takes a string (a) as argument
+// Remove the first 3 characters of a
+// Return the result???
+
+// solution:
+
+// function myFunction(a) {
+//     return console.log(a.slice(-3));
+// }
+// myFunction('bilash');
+
 // ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
